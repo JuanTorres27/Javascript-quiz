@@ -1,0 +1,10 @@
+.img-bg{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image:url(https://images.unsplash.com/photo-1521737711867-e3b97375f902?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80) ;
+  }
+
+  .bg-login{
+    background-color: #222831;
+    color: #32f1d7;
+  }
